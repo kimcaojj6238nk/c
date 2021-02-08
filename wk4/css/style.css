@@ -1,0 +1,103 @@
+h1 {
+    color:#00552E;
+    letter-spacing: 0.25em;
+    text-align: center;
+    text-shadow: 2px 2px 10px #FEF1B3;}
+h2 {color: #1DC69C;
+    text-align: center;
+    padding: 5px}
+img {
+    
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px;
+    border-radius: 10px;
+    -moz-border-radius: 10px;
+    -webkit-border-radius: 10px;   
+}
+body {
+    background-color: #FFFFFF;
+    border-width: 15px;
+    border-color: #F5FDE7;
+    border-style: solid;
+    border-radius: 35px;
+    -moz-border-radius: 35px;
+    -webkit-border-radius: 35px;
+    padding: 15px;
+    margin: 0;
+    text-align: left
+    }
+
+p {
+    color: #00552E;
+    text-align: left;
+    padding: 5px;
+    width: 60%;
+    align-content: center;
+    }
+
+h2 {color: #195618;}
+.h3-class-background {
+    text-align: left;
+    color: #FFFFFF;
+    background-color: #48A8F2;
+    padding: 10px;
+    border: 1px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    
+}
+.h3-class-education {
+    text-align: left;
+    color: #FFFFFF;
+    background-color: #FFD240;
+    padding: 10px;
+    border: 1px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;}
+.h3-class-hobbies {
+    text-align: left;
+    color: #FFFFFF;
+    background-color: #B646F3;
+    padding: 10px;
+    border: 1px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+li {
+    color: #B646F3;}
+table, th, td {
+    border: 1px solid #00552E;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    padding: 5px;
+    align-content: center;
+    text-align: center
+}
+td {
+    border: 1px dashed #00552E;
+}
+th {background-color: #F5FDE7;}
+.footer {color: #BC006A;}
+
+.h3-class-ambitions {
+    text-align: left;
+    color: #FFFFFF;
+    background-color: #FF5D44;
+    padding: 10px;
+    border: 1px;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;}
+}
+li {
+    color: #B646F3;}
+}
+
+
+
